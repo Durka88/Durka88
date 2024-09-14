@@ -46,7 +46,7 @@ Currently pursuing a career in Cloud Engineering, I have completed a professiona
 ---
 
 ## 📫 Connect with Me:
-- LinkedIn: [(www.linkedin.com/in/durka-devi-gunasagaran)
+- LinkedIn: [(www.linkedin.com/in/durka-devi-gunasagaran-4944a1197)
 - GitHub: [Your GitHub Profile](https://github.com)
 - Email: [durkz_ash_88@hotmail.com]
 
