@@ -1,6 +1,4 @@
-# Profile
-
-# Hello, I'm [Durka Devi] 👋
+# Hello, I'm Durka Devi 👋
 
 ## Aspiring Cloud Engineer 🌩️
 I am an enthusiastic and dedicated cloud engineer with hands-on experience in:
