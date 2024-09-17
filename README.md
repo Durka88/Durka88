@@ -30,7 +30,7 @@ Currently pursuing a career in Cloud Engineering, I have completed a professiona
 ---
 
 ## 🔧 Projects:
-- **Self-coding app on AppSheet**: Developed a inventry application combined automation for stock taking.
+- **Self-coding app on AppSheet**: Developed a inventory application combined automation for stock taking.
 - **Python Scripts for Automation**: Created scripts for automating system tasks and database management in MySQL.
 - **Linux Server Setup**: Configured Linux servers for hosting web applications and databases.
 
